@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python run_planner.py
 ```
 
-## 📊 Resultado Esperado
+## Resultado Esperado
 
 O sistema encontra um plano ótimo com 8 passos:
 1. Voar da base para z1
