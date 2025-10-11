@@ -1,0 +1,18 @@
+Carregando arquivos PDDL...
+Problema carregado: rescue-instance-01
+Executando planejador...
+Planejador: Fast Downward
+Plano encontrado! Passos: 8
+
+Sequência de ações:
+
+ 1: fly-4(d1, base, z1)
+ 2: pickup(d1, i1, z1)
+ 3: fly-3(d1, z1, z2)
+ 4: pickup(d1, i2, z2)
+ 5: fly-2(d1, z2, z3)
+ 6: deliver(d1, i2, z3)
+ 7: deliver(d1, i1, z3)
+ 8: fly-1(d1, z3, base)
+
+Missão concluída em 8 passos!
