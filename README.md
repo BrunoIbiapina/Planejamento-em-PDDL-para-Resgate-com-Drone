@@ -1,5 +1,7 @@
 # Sistema de Planejamento de Resgate com Drones
 
+> **In English:** Academic automated-planning project: a drone rescue scenario (battery levels, locations, items and drop zones) modeled in PDDL and solved with a planner through Python and Unified-Planning, with a short comparison between approaches.
+
 Este projeto implementa um sistema de planejamento automatizado para missões de resgate utilizando drones, baseado em PDDL (Planning Domain Definition Language) e a biblioteca `unified-planning`.
 
 ## Descrição do Sistema
